@@ -28,7 +28,11 @@
     "hubot-talker": ">= 1.0.1",
     "hubot": "2.4.6",
     "hubot-scripts": ">=2.0.8",
+<<<<<<< HEAD
     "optparse":           "1.0.4",
+=======
+    "optparse": "1.0.3",
+>>>>>>> 6f06066b0d0b84524f3d8e6934675feceffe3a6e
     "scoped-http-client": "0.9.8",
     "log":                "1.4.0",
     "express":            "3.3.4"
