@@ -1,6 +1,6 @@
 {
   "name": "hubot",
-  "version": "2.6.4",
+  "version": "2.4.6",
 
   "author": "hubot",
 
@@ -25,7 +25,10 @@
 
   "dependencies": {
     "coffee-script":      "1.6.3",
-    "optparse":           "1.0.4",
+    "hubot-talker": ">= 1.0.1",
+    "hubot": "2.4.6",
+    "hubot-scripts": ">=2.0.8",
+    "optparse": "1.0.3",
     "scoped-http-client": "0.9.8",
     "log":                "1.4.0",
     "express":            "3.3.4"
